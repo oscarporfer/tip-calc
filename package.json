@@ -4,5 +4,8 @@
   "main": "tip-calc.js",
   "repository": "https://github.com/oscarporfer/tip-calc.git",
   "author": "oscarporfer <oscarfportes@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
